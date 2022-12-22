@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/nikhil-agarwal-85a203189/">
+    <a href="https://www.linkedin.com/in/agarwal-nikhil/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software and Cloud Computing Engineer, contributing to frontend, backend and database for building web applications.
 
 - :seedling: Exploring Blockchain Technolgy currently.
 
