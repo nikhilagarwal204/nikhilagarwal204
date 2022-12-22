@@ -1,13 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/agarwal-nikhil/">
+    <a href="https://www.linkedin.com/in/agarwal-nikhil/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCTzha_EvXws0hJ610XTgKCQ">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.instagram.com/nikhilagarwal_dna/">
+    <a href="https://www.instagram.com/nikhilagarwal_dna/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -25,13 +22,15 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software and Cloud Computing Engineer, contributing to frontend, backend and database for building web applications.
+- :telescope: I’m working as a Software Engineer, contributing to frontend, backend and database for building awesome web applications.
+
+- ☁️: Big fan of Cloud Computing Technologies, experiecne with AWS, GCP and Azure!
 
 - :seedling: Exploring Blockchain Technolgy currently.
 
 - :zap: In my free time, I read tech articles and watch upon new Technolgies.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-agarwal-85a203189/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agarwal-nikhil/)
 
 ---
 
