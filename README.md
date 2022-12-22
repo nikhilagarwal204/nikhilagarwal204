@@ -24,13 +24,13 @@
 I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Working as a Software Engineer, contributing to frontend, backend and database, building awesome applications.
 
-- ☁️ Big fan of Cloud Computing Technologies, experience with AWS, GCP and Azure!
+- :cloud: Big fan of Cloud Computing Technologies, experience with AWS, GCP and Azure!
 
-- :seedling: Exploring Blockchain Technolgy currently.
+- :zap: Exploring Blockchain Technolgy currently.
 
-- :zap: In my free time, I read tech articles and watch upon new Technolgies.
+- :seedling: In my free time, I read tech articles and watch upon new Technolgies.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agarwal-nikhil/)
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agarwal-nikhil/)
 
 ---
 
