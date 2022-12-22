@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
    <div id="badges">
-    <a href="https://www.linkedin.com/in/agarwal-nikhil/" target="_blank">
+    <a href="https://www.linkedin.com/in/agarwal-nikhil/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/nikhilagarwal_dna/" target="_blank">
+    <a href="https://www.instagram.com/nikhilagarwal_dna/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer, contributing to frontend, backend and database for building awesome web applications.
+- :telescope: Working as a Software Engineer, contributing to frontend, backend and database, building awesome applications.
 
 - ☁️: Big fan of Cloud Computing Technologies, experiecne with AWS, GCP and Azure!
 
