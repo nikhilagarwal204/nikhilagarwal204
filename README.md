@@ -24,7 +24,7 @@
 I am a Software Developer and a Data Science enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: Working as a Software Engineer, contributing to frontend, backend and database, building awesome applications.
 
-- ☁️: Big fan of Cloud Computing Technologies, experiecne with AWS, GCP and Azure!
+- ☁️ Big fan of Cloud Computing Technologies, experience with AWS, GCP and Azure!
 
 - :seedling: Exploring Blockchain Technolgy currently.
 
